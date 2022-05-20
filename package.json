@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/pgraham/jest-custom-reporter-node-path/issues"
   },
-  "homepage": "https://github.com/pgraham/jest-custom-reporter-node-path#readme"
+  "homepage": "https://github.com/pgraham/jest-custom-reporter-node-path#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.4"
+  }
 }
