@@ -3,23 +3,8 @@
   "version": "1.0.0",
   "description": "jest-custom-reporter-node-path",
   "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pgraham/jest-custom-reporter-node-path.git"
-  },
-  "author": "Philip Graham",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/pgraham/jest-custom-reporter-node-path/issues"
-  },
-  "homepage": "https://github.com/pgraham/jest-custom-reporter-node-path#readme",
   "dependencies": {
-    "node-fetch": "^3.2.4"
+    "node-fetch": "^2.6.7"
   }
 }
